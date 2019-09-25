@@ -1,8 +1,8 @@
 {
-  "name": "react-native-amap3d-openwise",
+  "name": "react-native-amap3d-dth",
   "version": "0.3.1",
-  "description": "项目需要,在react-native-amap3d组件上扩展而来. react-native 高德地图组件，支持 Android + iOS",
-  "author": "lzy3366 <lzy3366@qq.com>",
+  "description": "项目需要,在react-native-amap3d-openwise组件上继承扩展而来. react-native 高德地图组件，支持 Android + iOS",
+  "author": "YoungSherlockHolmes <626097912@qq.com>",
   "license": "MIT",
   "keywords": [
     "react-native",
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/lzy3366/react-native-amap3d-openwise"
+    "url": "https://github.com/YoungSherlockHolmes/react-native-amap3d-dth"
   },
   "scripts": {
     "test": "eslint . && flow",
